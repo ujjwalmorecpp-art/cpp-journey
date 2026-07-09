@@ -1,4 +1,3 @@
-
 # 🚀 C++ Journey
 
 > A structured record of my journey in learning C++, improving problem-solving skills, and building a strong programming foundation.
@@ -59,9 +58,32 @@ cpp-journey/
 ## 📈 Progress
 
 | Month | Status |
-|-------|--------|
+|--------|--------|
 | Month 1 | ✅ Completed |
 | Month 2 | 🚧 In Progress |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalmorecpp-art&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ujjwalmorecpp-art&theme=github-dark" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalmorecpp-art&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 📘 Learning C++
+- 🧩 Practicing Data Structures & Algorithms
+- 🌐 Preparing for Full Stack Web Development
+- 💻 Building projects while documenting my progress
+- 📅 Maintaining consistent GitHub commits
 
 ---
 
