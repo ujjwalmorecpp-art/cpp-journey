@@ -64,19 +64,6 @@ cpp-journey/
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalmorecpp-art&show_icons=true&theme=github_dark" height="165" />
-  <img src="https://streak-stats.demolab.com?user=ujjwalmorecpp-art&theme=github-dark" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalmorecpp-art&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 📘 Learning C++
