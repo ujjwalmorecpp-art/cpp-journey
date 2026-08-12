@@ -1,26 +1,31 @@
 #include<iostream>
 using namespace std;
-
 int main(){
+
     int num;
-    cout << "Enter the number: ";
-    cin >> num;
     int digit;
-    int answer = 0;
+    int rev =0;
+
+    cout<<"Enter the number: ";
+    cin>>num;
+    
     int temp = num;
 
-    while(num > 0){
+    while(num>0){
+
         digit = num % 10;
-        answer = answer * 10 + digit;
-        num = num / 10;
+        rev = rev*10 + digit;
+        num = num/10;
     }
 
-    if(answer == temp){
-        cout << "The number is Palindrome";
+    if(temp == rev){
+
+        cout<<"The number is Palindrome.";
     }
-    else{
-        cout << "The number is NOT Palindrome";
-    }
+else {
+
+    cout<<"The number is not Palindrome. ";
+}
 
     return 0;
 }
