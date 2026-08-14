@@ -3,7 +3,7 @@
 > A structured record of my journey in learning C++, improving problem-solving skills, and building a strong programming foundation.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ujjwalmorecpp-art&theme=dark&hide_border=true" alt="GitHub Streak" width="550" />
+  <img src="https://streak-stats.demolab.com/?user=ujjwalmorecpp-art&theme=dark&hide_border=true&v=2" alt="GitHub Streak" width="550" />
 </p>
 
 ---
