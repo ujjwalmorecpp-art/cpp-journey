@@ -1,31 +1,35 @@
 #include<iostream>
 using namespace std;
+
+int ispal(int a){
+
+int digit;
+int pal =0;
+
+while(a>0){
+
+    digit = a%10;
+    pal = pal * 10 + digit;
+    a = a/10;
+}
+return pal;
+}
+
 int main(){
 
-    int num;
-    int digit;
-    int rev =0;
+    int a;
+    cin>>a;
+  int temp = a;
 
-    cout<<"Enter the number: ";
-    cin>>num;
-    
-    int temp = num;
+  if(ispal(a)== temp){
 
-    while(num>0){
+    cout<<"The number is plandrome";
+  }
+  else {
 
-        digit = num % 10;
-        rev = rev*10 + digit;
-        num = num/10;
-    }
+    cout<<"The number is not a plandrome";
+  }
 
-    if(temp == rev){
-
-        cout<<"The number is Palindrome.";
-    }
-else {
-
-    cout<<"The number is not Palindrome. ";
-}
 
     return 0;
 }
