@@ -20,8 +20,5 @@ int main(){
         cout<<str[i]<<" ";
     }
 
-
-
-
     return 0;
 }

@@ -3,30 +3,29 @@ using namespace std;
 int main(){
 
     int num;
-    cout<<"Enter the number : ";
-    cin>>num;
-
-    int temp = num;
-
-    int digit; 
+    int digit;
     int rev = 0;
+
+    cout<<"Enter the number :";
+    cin>>num;
+    int temp = num;
 
     while(num>0){
 
-        digit = num % 10;
-        rev = rev * 10 + digit; 
-        num = num / 10;
+        digit = num%10;
+        rev = rev*10 + digit;
+        num = num /10; 
     }
 
-    if(rev == temp){
+    if(temp == rev){
 
-        cout<<"The number is palindrome.";
+        cout<<"The number is palandrome. ";
     }
-    else {
+    else{
 
-        cout<<"The number is not palindrome.";
+        cout<<"The number is not palandrome. ";
     }
 
-   return 0;
 
+    return 0;
 }
